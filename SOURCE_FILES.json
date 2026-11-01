@@ -1,0 +1,6 @@
+{
+  "algorithms/qaoa_qubo/gen2/qaoa_v2.py": "1e20767ab821758e053a81d4d39bd79784820cb7c4179c3a848066871dcab170",
+  "algorithms/qaoa_qubo/gen2/mixers.py": "a373592dd757706c4c609ef3265c4a66cbadc17725fde7a569367d41030422dc",
+  "algorithms/qaoa_qubo/gen2/sk_warmstart.py": "26c911b9c1a8715e3edb414382c58d93fa3156c9c15f29653cc52b9836880907",
+  "tests/algorithms/test_qaoa_v2_gen2.py": "8d12772bec3e44f65950e5bc82144de3d83dbbd90539590542d531f8af038e6f"
+}

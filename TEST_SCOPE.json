@@ -1,0 +1,8 @@
+{
+  "excluded_original_tests": [
+    "test_benchmark_vs_ring_xy",
+    "test_sk_vs_random_init_convergence",
+    "test_sk_vs_random_init_convergence_statistical"
+  ],
+  "reason": "Historical warm-start performance thresholds and unmatched ablation do not establish superiority; not release claims. Distribution-aware controls replace them."
+}
